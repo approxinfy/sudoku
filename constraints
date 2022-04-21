@@ -1,0 +1,6 @@
+Sudoku's Constraints:
+
+=> No position in same column can have the same value
+=> No position in same row can have the same value
+=> No position in 3x3 sub-matrix can have the same value
+=> any position value should be in [1,2,3,4,5,6,7,8,9]
